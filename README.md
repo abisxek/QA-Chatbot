@@ -28,10 +28,6 @@ The QA Chatbot is an AI-powered question-answering system that provides precise 
    ```sh
    pip install -r requirements.txt
    ```
-4. Run the chatbot:
-   ```sh
-   python main.py
-   ```
 
 ## Usage
 - Start the chatbot and input your queries.
